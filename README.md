@@ -9,3 +9,12 @@ You can create your own custom list by adding a "/{Your-List-Name}" to the end o
 # Deployed on Heroku at 
 
 https://radiant-cliffs-58750.herokuapp.com
+
+# Install Instructions
+
+i) Clone/ Download the repo
+ii) cd to the downloaded folder.
+iii) open command terminal
+iv) npm init
+V) npm i
+vi)
