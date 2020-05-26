@@ -17,4 +17,5 @@ ii) cd to the downloaded folder.
 iii) open command terminal
 iv) npm init
 V) npm i
-vi)
+vi) node app.js
+vii) Navigate to localhost 3000 in browser.
