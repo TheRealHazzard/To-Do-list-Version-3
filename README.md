@@ -12,10 +12,10 @@ https://radiant-cliffs-58750.herokuapp.com
 
 # Install Instructions
 
-i) Clone/ Download the repo
-ii) cd to the downloaded folder.
-iii) open command terminal
-iv) npm init
-V) npm i
-vi) node app.js
-vii) Navigate to localhost 3000 in browser.
+- Clone/ Download the repo
+- cd to the downloaded folder.
+- open command terminal
+- npm init
+- npm i
+- node app.js
+- Navigate to localhost 3000 in browser.
