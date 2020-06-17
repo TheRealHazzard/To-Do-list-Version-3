@@ -8,7 +8,7 @@ You can create your own custom list by adding a "/{Your-List-Name}" to the end o
 
 # Deployed on Heroku at 
 
-https://radiant-cliffs-58750.herokuapp.com
+https://to-do-list-therealhazzard.herokuapp.com
 
 # Install Instructions
 
