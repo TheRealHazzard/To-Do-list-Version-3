@@ -16,8 +16,8 @@ https://to-do-list-therealhazzard.herokuapp.com
 - cd to the downloaded folder.
 - open command terminal
 ```
-- npm init
-- npm i
-- node app.js
+npm init
+npm install
+node app.js
 ```
 - Navigate to localhost 3000 in browser.
