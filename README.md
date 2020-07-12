@@ -15,7 +15,9 @@ https://to-do-list-therealhazzard.herokuapp.com
 - Clone/ Download the repo
 - cd to the downloaded folder.
 - open command terminal
+```
 - npm init
 - npm i
 - node app.js
+```
 - Navigate to localhost 3000 in browser.
