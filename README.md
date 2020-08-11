@@ -1,8 +1,8 @@
-# To-Do-List-Version-3
+![logo](https://github.com/TheRealHazzard/To-Do-list-Version-3/blob/master/public/images/logo.png)
 
 # Introduction
 
-Final Version  . This is the To-Do-List created using NodeJs and EJS along with a database connection using MongoDB Atlas . 
+Final Version .This is the To-Do-List created using NodeJs and EJS along with a database connection using MongoDB Atlas . 
 You can create your own custom list by adding a "/{Your-List-Name}" to the end of the URL. A new List will be dynamically created only for that particular URL and can be accessed anytime. Completely Customizable and you can add/remove notes at will.
 
 
@@ -17,7 +17,13 @@ https://to-do-list-therealhazzard.herokuapp.com
 - open command terminal
 ```
 npm init
+```
+
+```
 npm install
+```
+
+```
 node app.js
 ```
 - Navigate to localhost 3000 in browser.
